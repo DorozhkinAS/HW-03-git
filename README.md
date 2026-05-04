@@ -136,6 +136,8 @@ echo "====="
 
 Если всё было сделано правильно, то на странице `network` в GitHub, находящейся по адресу 
 `https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/network`, будет примерно такая схема:
+
+<img width="318" height="269" alt="image" src="https://github.com/user-attachments/assets/e73f70f8-1777-4866-968e-b0a84b480a39" />
   
 ![Созданы обе ветки](img/01.png)
 
@@ -157,6 +159,9 @@ Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
 ```  
 
 В результате получаем такую схему:
+
+<img width="345" height="275" alt="image" src="https://github.com/user-attachments/assets/20b0fa98-d914-49a6-93e9-16c17f970494" />
+
   
 ![Первый мерж](img/02.png)
 
